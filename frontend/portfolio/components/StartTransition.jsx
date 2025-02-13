@@ -22,7 +22,6 @@ const StartTransition = () => {
           />
         </div>
       </AnimatePresence>
-      ;
     </>
   );
 };
